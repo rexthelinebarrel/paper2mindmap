@@ -36,7 +36,7 @@ It is one of the very few open-source tools that performs true **multimodal lite
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-org/paper2mindmap.git
+git clone https://github.com/rexthelinebarrel/paper2mindmap.git
 cd paper2mindmap
 
 # Create a virtual environment (recommended)
@@ -185,7 +185,7 @@ We welcome contributions from researchers, developers, and anyone who reads pape
 ### Development Setup
 
 ```bash
-git clone https://github.com/your-org/paper2mindmap.git
+git clone https://github.com/rexthelinebarrel/paper2mindmap.git
 cd paper2mindmap
 pip install -r requirements-dev.txt  # includes pytest, ruff, mypy
 pre-commit install
